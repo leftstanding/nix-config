@@ -11,7 +11,7 @@
     # Nix Colors
     nix-colors.url = "github:misterio77/nix-colors";
 
-    # Add Security Here once ready
+    # TODO Add security, need to determine type
 
     # Home manager
     home-manager = {
